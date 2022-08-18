@@ -1,2 +1,3 @@
 # main
-Practica de clase
+PRUEBAS CON EL ENTORNO DE GIT
+
